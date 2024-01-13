@@ -1,0 +1,18 @@
+To create new environment
+-------------------------
+
+conda create -n projects_env python=3.8.5
+
+conda activate projects_env
+
+pip install opencv-contrib-python keras tensorflow pyqt5 pyqt5designer pillow imutils jupyterlab pandas pyserial PyAudio pywin32 QDarkStyle seaborn SpeechRecognition statsmodels tqdm scikit-learn protobuf matplotlib 
+
+pip install pandas==2.0.0
+
+pip install numpy==1.23.5
+
+pip install PyQt5==5.11.3
+
+pip install mpld3
+                   
+pip install plotly    
